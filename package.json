@@ -56,8 +56,8 @@
   "module": "fesm5/ngx-pinch-zoom.js",
   "name": "ngx-pinch-zoom",
   "peerDependencies": {
-    "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14"
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
   },
   "repository": {
     "type": "git",
@@ -65,5 +65,5 @@
   },
   "sideEffects": false,
   "typings": "ngx-pinch-zoom.d.ts",
-  "version": "2.3.4"
+  "version": "2.3.5"
 }
