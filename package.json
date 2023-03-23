@@ -54,14 +54,14 @@
   "main": "bundles/ngx-pinch-zoom.umd.js",
   "metadata": "ngx-pinch-zoom.metadata.json",
   "module": "fesm5/ngx-pinch-zoom.js",
-  "name": "ngx-pinch-zoom",
+  "name": "ngx-pinch-zoom-1",
   "peerDependencies": {
     "@angular/common": "^14.2.0",
     "@angular/core": "^14.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+ https://github.com/kalaiprakash93/ngx-pinch-zoom.git"
+    "url": "git+ https://github.com/IDPLive/ngx-pinch-zoom.git"
   },
   "sideEffects": false,
   "typings": "ngx-pinch-zoom.d.ts",
